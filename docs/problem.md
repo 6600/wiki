@@ -14,6 +14,17 @@ IOS可以选择自动代理:
 PAC地址填:
 http://cunchu.site/pac/debug
 
+## 证书的下载地址
+
+注意：需要使用手机自带浏览器打开才能正常下载证书
+
+苹果证书：https://cunchu.site/work/debug/ios.pem
+苹果证书下载完毕后需要设置信任证书！
+
+安卓证书：https://cunchu.site/work/debug/Android.cer
+安卓证书需要安装为VPN和应用程序证书
+
+
 ## 代理设置后上不了网怎么回事
 苹果手机上不了网是证书没有设置对，请确认证书是否已经下载安装，并且两个地方都信信任了，并确定代理地址是否填错。
 
@@ -45,3 +56,8 @@ http://wechat.v2.traceint.com/index.php/reserve/index.html?f=wechat
 ## 有验证码可以抢吗
 可以
 
+## 在座位的情况下可以绑定吗？
+不可以，得在退坐以后设置绑定。
+
+## 闭馆了可以绑定吗？
+可以
