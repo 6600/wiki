@@ -18,43 +18,29 @@
 
 ## 第五步：设置手动代理
 
-**代理主机名**：154.8.196.163 或者 515.run
+**代理主机名**：515.run 或者 154.8.196.163
 
 **代理服务器端口**：8866
 
 ![点击允许](http://cunchu.site/upload/f6c4c90248ff7d08.png)
 
-## 第六步：注册并登录
-
-[注册与登录](http://cunchu.site/work/debug/index.html)
-
-先在这上面注册账号登录，登陆进入后在底部输入我给你的SDK代码后会添加上对应的程序
-
-![注册](http://cunchu.site/upload/6a2cb56221559164.png)
-
-## 第七步：点击选择要进入程序
-
-![登录界面](http://cunchu.site/upload/417a34271dc1f045.png)
-
-## 第八步：待绑定页面
-
-![抢票界面](http://cunchu.site/upload/5bea478465955fd3.png)
-
-## 第九步：用微信从下面这个地址登录我去图书馆
+## 第六步：微信从下方这个地址进入我去图书馆首页并点击下方星星
 
 http://wechat.v2.traceint.com/index.php/reserve/index.html?f=wechat
 
-![我去图书馆](http://cunchu.site/upload/540b92c57c27f9d2.png)
+如果没有星星就是代理没有设置好或者安卓没有进指定的地址
 
-## 第十步：在我去图书馆首页刷新下然后切换回后台看看有没有数据
+![进入入口](https://cunchu.site/upload/917626c03ea18a3d.png)
 
-![后台](http://cunchu.site/upload/c5507257fbf2b03c.png)
-
-![后台](http://cunchu.site/upload/10d80c3b804774fd.png)
-
-## 第十一步：选定好预约或者抢座时间，勾选开启选项，点击绑定好需要抢的座位，点击保存即可完成
-
-![后台](http://cunchu.site/upload/179804a2c0b7a0bf.png)
+## 第七步：注册并登录
 
 
-## 第十二步：关闭代理，到时间服务器会自动抢。
+## 第八步：根据学校情况提示选择抢座或者明日预约模式
+
+程序会自动读取你的常用座位作为首选和备选座位
+
+## 第九步：保存数据关闭代理即可
+
+每天服务器会自动抢，如需更改设置才需要再连接代理！
+
+推荐点击绑定微信号关注程序公众号，方便接收抢座通知已经查询个人信息
